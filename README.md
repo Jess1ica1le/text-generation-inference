@@ -16,6 +16,8 @@
 A Rust, Python and gRPC server for text generation inference. Used in production at [HuggingFace](https://huggingface.co)
 to power Hugging Chat, the Inference API and Inference Endpoint.
 
+edited by Jessica Le!
+
 </div>
 
 ## Table of contents
